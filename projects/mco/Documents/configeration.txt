@@ -1,0 +1,21 @@
+http://www.mco.ink/  前台
+http://www.mco.ink/admin/index.php?route=common/login 后端
+登录名  admin 密码realsanyu
+
+
+服务器 ip 159.69.57.50 
+服务器ssh 端口 22335
+服务器 用户名 root
+服务器 密码 realsanyu12345
+
+
+已经安装lnmp  https://lnmp.org/
+添加网站 lnmp vhost add
+
+
+Ftp
+Host ip: 159.69.57.50
+Port : 
+Username: light
+Password: realsanyu
+Directory: /home/wwwroot/www.mco.ink/
